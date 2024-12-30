@@ -31,3 +31,7 @@ console.log(Object.getOwnPropertyNames(barcelonaPlayer));
 
 
 
+const array  = [1,2,3]
+const newArray = array.map(element=>element*2)
+
+console.log(newArray);
